@@ -4,7 +4,7 @@ Web application for the Orquesta Escuela de Berisso as part of a Computer Scienc
 
 ## Objective
 
-This web application was made to help and improve OEB's Directives and Profesors workflow and management of their alumni and instrument records as well as their lectures organization.  
+This web application was made to help and improve OEB's Directives and Professors workflow and management of their alumni and instrument records as well as their lectures organization.  
 
 ## State of Development
 
