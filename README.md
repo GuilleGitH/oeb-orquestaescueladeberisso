@@ -12,6 +12,8 @@ This project was completed as part of the course: Proyecto de Software 2019 - UN
 
 A live version of this application can be found here: https://grupo19.proyecto2019.linti.unlp.edu.ar/#/
 
+This repository is lacking info about: VueJS UI and Jinja2 UI Templates. They will be added soon. 
+
 ### Some of the dependencies and Frameworks used:
 
 - Flask 
